@@ -4,6 +4,8 @@
     "email": "ngovietdung0112@gmail.com"
   },
   "records": {
-    "TXT": ["vc-domain-verify=zulnv.is-a.dev"]
+    "TXT": [
+      "vc-domain-verify=zulnv.is-a.dev"
+    ]
   }
 }
