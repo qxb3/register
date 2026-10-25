@@ -3,6 +3,9 @@
     "username": "tibiv22"
   },
   "records": {
-    "NS": ["jaime.ns.cloudflare.com", "wanda.ns.cloudflare.com"]
+    "NS": [
+      "jaime.ns.cloudflare.com",
+      "wanda.ns.cloudflare.com"
+    ]
   }
 }
